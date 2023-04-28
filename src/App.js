@@ -5,9 +5,11 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <div className="App-header">
-        <h1 className="text-center">Dictionary App</h1>
-        <Dictionary />
+      <div className="container">
+        <div className="App-header">
+          <h1 className="text-center">Dictionary App</h1>
+          <Dictionary />
+        </div>
       </div>
     </div>
   );
