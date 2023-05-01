@@ -3,7 +3,7 @@ body {
 }
 
 .App {
-  max-width: 540px;
+  padding: 10px 200px 20px 200px;
 }
 
 .App .App-header {
@@ -13,4 +13,14 @@ body {
 .App footer {
   text-align: center;
   margin: 30px 0;
+}
+
+@media (max-width: 996px) {
+  .App {
+    padding: 0;
+  }
+
+  .container {
+    padding: 0;
+  }
 }

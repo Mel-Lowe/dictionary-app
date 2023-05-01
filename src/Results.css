@@ -1,0 +1,13 @@
+.Results h2 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.5;
+  color: black;
+}
+
+.Results h3 {
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1;
+  opacity: 0.6;
+}
