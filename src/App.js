@@ -8,8 +8,8 @@ export default function App() {
       <div className="container">
         <div className="App-header">
           <h1 className="text-center">Dictionary App</h1>
-          <Dictionary defaultKeyword="sunset" />
         </div>
+        <Dictionary defaultKeyword="sunset" />
       </div>
       <footer>Coded by Melowe, open-sourced on Github</footer>
     </div>
