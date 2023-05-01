@@ -2,6 +2,17 @@
   font-weight: 600;
   font-size: 24px;
   line-height: 29px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   color: black;
+}
+.Meanings .definition {
+  font-size: 15px;
+  line-height: 17px;
+  color: #000;
+  margin: 20px 0 10px;
+}
+.Meanings .example {
+  font-size: 14px;
+  line-height: 15px;
+  color: #666;
 }
