@@ -11,7 +11,12 @@ export default function App() {
         </div>
         <Dictionary defaultKeyword="sunset" />
       </div>
-      <footer>Coded by Melowe, open-sourced on Github</footer>
+      <footer>
+        Coded by{" "}
+        <a href="https://playful-lebkuchen-8def1d.netlify.app/">Melowe</a>,
+        open-sourced on{" "}
+        <a href="https://github.com/Mel-Lowe/dictionary-app">GitHub</a>
+      </footer>
     </div>
   );
 }
