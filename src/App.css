@@ -3,7 +3,8 @@ body {
 }
 
 .App {
-  margin: 10px 250px 20px 250px;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App .App-header {
@@ -13,18 +14,4 @@ body {
 .App footer {
   text-align: center;
   margin: 30px 0;
-}
-
-@media (max-width: 996px) {
-  .App {
-    margin: 0;
-  }
-
-  .App .container {
-    padding: 0;
-  }
-
-  .App .App-header {
-    margin: 30px;
-  }
 }
