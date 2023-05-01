@@ -1,1 +1,16 @@
+body {
+  background: #d9ede1;
+}
 
+.App {
+  max-width: 540px;
+}
+
+.App .App-header {
+  margin: 30px;
+}
+
+.App footer {
+  text-align: center;
+  margin: 30px 0;
+}

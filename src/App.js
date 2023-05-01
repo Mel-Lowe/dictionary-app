@@ -11,6 +11,7 @@ export default function App() {
           <Dictionary />
         </div>
       </div>
+      <footer>Coded by Melowe, open-sourced on Github</footer>
     </div>
   );
 }
