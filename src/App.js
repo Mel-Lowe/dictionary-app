@@ -13,7 +13,7 @@ export default function App() {
       </div>
       <footer>
         Coded by{" "}
-        <a href="https://playful-lebkuchen-8def1d.netlify.app/">Melowe</a>,
+        <a href="https://playful-lebkuchen-8def1d.netlify.app/">Mel Lowe</a>,
         open-sourced on{" "}
         <a href="https://github.com/Mel-Lowe/dictionary-app">GitHub</a>
       </footer>
